@@ -1108,5 +1108,11 @@ var hacktobermap = [
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
     longitude: 76.9558
+  },
+  {
+    name: "Pranav",
+    location: "Austin, TX",
+    latitude: 30.2672,
+    longitude: 97.7431
   }
 ];
